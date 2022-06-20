@@ -1,4 +1,4 @@
-# EFI-X99-F8-OPENCORE
+# EFI-B450m STEEL LEGEND Ryzen 5 1600 - OPENCORE
 This file contains all the files needed to setup a working machine on macOS Monterey.
 
 Follow down all the specs of my rig and it's working state:
